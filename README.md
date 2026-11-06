@@ -74,7 +74,7 @@ return 0;
 
 ## Output:
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b51fb3b3-67ae-4063-b722-5e2fc1b9782b" />
+<img width="1015" height="496" alt="image" src="https://github.com/user-attachments/assets/77430229-08d5-4d0c-a2f2-b447ded57b82" />
 
 
 ## Result:
